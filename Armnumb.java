@@ -16,10 +16,10 @@ public class Armnumb {
             /10;
         }
         if(result==num){
-            System.out.println(num+" is an Armstrong Number");
+            System.out.println(num+" is an Armstrong No");
         }
         else{
-            System.out.println(num+" is not an Armstrong Number");
+            System.out.println(num+" is not an Armstrong No");
         }
     }
 }
